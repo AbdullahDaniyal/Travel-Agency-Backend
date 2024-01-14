@@ -11,7 +11,13 @@ Designed for travel agencies to manage their offerings, view bookings, and inter
 ### Hotel Owner Panel: 
 Allows hotel owners to manage their listings, view booking statistics, and interact with both travelers and travel agencies.
 
-The backend is built using MongoDB, Express, and Node.js (MEN stack). It features integration with Cloudinary for image uploads, Etherscan for fake SMTP email handling, and Three.js for advanced graphical representations.
+The backend is built using 
+1. MongoDB
+2. Express
+3. Node.js (MEN stack).
+4. It features integration with Cloudinary for image uploads.
+5. Ethereal for fake SMTP email handling
+6. Three.js for advanced graphical representations.
 ## Features
 1. User authentication and authorization.
 2. CRUD operations for travel packages, hotel listings, and user profiles.
@@ -22,12 +28,12 @@ The backend is built using MongoDB, Express, and Node.js (MEN stack). It feature
 7. Interactive 3D graphics with Three.js.
 ## Installation
 Clone the repository and install dependencies:
-git clone [URL-of-Your-GitHub-Repository]
-cd [Your-Project-Folder]
-npm install
+1. git clone [URL-of-Your-GitHub-Repository]
+2. cd [Your-Project-Folder]
+3. npm install
 ## Usage
 To start the server, run:
-npm start
+1. npm start
 Ensure MongoDB is running on your machine or use a cloud-based MongoDB service.
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
