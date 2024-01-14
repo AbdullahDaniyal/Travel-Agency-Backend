@@ -34,6 +34,6 @@ Clone the repository and install dependencies:
 ## Usage
 To start the server, run:
 1. npm start
-Ensure MongoDB is running on your machine or use a cloud-based MongoDB service.
+2. Ensure MongoDB is running on your machine or use a cloud-based MongoDB service.
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
