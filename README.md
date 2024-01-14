@@ -28,8 +28,8 @@ The backend is built using
 7. Interactive 3D graphics with Three.js.
 ## Installation
 Clone the repository and install dependencies:
-1. git clone [URL-of-Your-GitHub-Repository]
-2. cd [Your-Project-Folder]
+1. git clone https://github.com/AbdullahDaniyal/Travel-Agency-Backend.git
+2. cd Frontend
 3. npm install
 ## Usage
 To start the server, run:
